@@ -1,4 +1,4 @@
-package com.example.myusers;
+package org.ashton.databaseapp;
 
 import org.junit.Test;
 
